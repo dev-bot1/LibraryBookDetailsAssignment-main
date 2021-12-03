@@ -1,0 +1,8 @@
+POST http://localhost:3001/add-new-post
+Content-Type: application/json
+
+{
+    "bookName": "Think and Grow Rich",
+    "issuerName": "ABC",
+    "dueDate": "10/12/2022"
+}
